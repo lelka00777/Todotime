@@ -2,7 +2,7 @@
   "name": "todotime",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://lelka00777.github.io/Todotime",
+  "homepage": "https://lelka00777.github.io/Todotime",
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
@@ -16,6 +16,7 @@
     "@types/node": "^16.7.13",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
+    "gh-pages": "^6.1.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",

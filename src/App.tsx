@@ -5,7 +5,7 @@ import {TaskList} from './components/TaskList'
 const App: React.FC = () => {
     return (
         <div style={{ padding: '20px' }}>
-            <h1>Todo List</h1>
+            <h1>Todo Time</h1>
             <TaskList />
         </div>
     );
